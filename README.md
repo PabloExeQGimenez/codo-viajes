@@ -1,6 +1,9 @@
 ![](./public/assets/img/Agregar_un_titulo_1.gif)
 
-![note](Deploy: https://codo-viajes.onrender.com)
+[Deploy](https://codo-viajes.onrender.com)
+Acceso:
+>usuario: juana@admi.com
+>constraseña: juana123
 
 ## Backend
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,npm)](https://skillicons.dev)
