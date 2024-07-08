@@ -1,8 +1,9 @@
 ![](./public/assets/img/Agregar_un_titulo_1.gif)
 
 [Deploy](https://codo-viajes.onrender.com)
-Acceso:
+
 >usuario: juana@admi.com
+
 >constraseña: juana123
 
 ## Backend
